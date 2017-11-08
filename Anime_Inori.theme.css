@@ -1,4 +1,4 @@
-//META{"name":"Anime_Project","description":"HERE IT IS","author":"Cal","version":"1.0"}*//
+//META{"name":"Anime_Inori","description":"HERE IT IS","author":"Cal","version":"1.0"}*//
 
 /*
                      _                _                                   _ 
@@ -13,7 +13,7 @@
 .app,
 .callout-backdrop {
 	/*** !! THIS IMAGE URL NEEDS TO BE HTTPS:// !! ***/
-	background: url(https://archive-media-0.nyafuu.org/w/image/1450/13/1450134177042.jpg) !important;
+	background: url(https://images.alphacoders.com/599/599136.jpg) !important;
 	background-size: cover !important;
 }
 
